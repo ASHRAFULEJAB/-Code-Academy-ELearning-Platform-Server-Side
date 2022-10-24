@@ -1,0 +1,182 @@
+[
+    {
+        "id": "635598e8be72cfe912608809",
+        "image": "https://c1.wallpaperflare.com/preview/781/987/801/nature-sajek-valley-bangladesh.jpg",
+        "total": 108,
+        "night": 79,
+        "rating": 4.7,
+        "category_id": 1,
+        "title": "Beginner Level",
+        "Description": "Duis tempor proident do fugiat. Ullamco fugiat consectetur deserunt et fugiat eu sint amet nisi sunt quis fugiat. Adipisicing aliqua aliquip anim qui laboris. Proident ut aliquip labore sunt ullamco"
+    },
+    {
+        "id": "63559917cd6b95e56a2cdb52",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/27/91/d7/royal-sajek-sajek-valley.jpg",
+        "total": 159,
+        "night": 33,
+        "rating": 4.5,
+        "category_id": 1,
+        "title": "Intermidate Level",
+        "Description": "Commodo est commodo officia cillum officia deserunt duis cillum proident ea labore. Aute eiusmod magna velit consequat fugiat deserunt ipsum fugiat pariatur. Laborum labore cillum ipsum esse quis veniam"
+    },
+    {
+        "id": "63559917851a826af30f960f",
+        "image": "https://sajekhillview.com/assets/images/YDXJ0520-01.jpeg",
+        "total": 450,
+        "night": 55,
+        "rating": 4.9,
+        "category_id": 1,
+        "title": "Advance Level",
+        "Description": "Anim laboris minim irure aliquip culpa sit pariatur adipisicing excepteur dolore qui. Reprehenderit culpa officia exercitation qui exercitation velit velit id pariatur ipsum sit anim. Id sit enim adipisicing"
+    },
+    {
+        "id": "6355991742166456f4019acc",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/fe/fe/b3/polo-orchid-resort-cherrapunji.jpg",
+        "total": 588,
+        "night": 56,
+        "rating": 4.1,
+        "category_id": 2,
+        "title": "Beginner Level",
+        "Description": "Minim commodo in deserunt fugiat est ullamco eu. Officia minim ea laboris fugiat. Tempor Lorem labore laborum ad enim."
+    },
+    {
+        "id": "6355991737994116efdef1ea",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUve8e1rwF8eTF2ZlpP78cKYIdnAJsK986hQ&usqp=CAU",
+        "total": 888,
+        "night": 19,
+        "rating": 4.4,
+        "category_id": 2,
+        "title": "Intermidate Level",
+        "Description": "Ea et minim laboris quis. Sit exercitation nisi labore exercitation aliqua do aliqua cupidatat officia consequat non nulla. Commodo nostrud deserunt velit ipsum adipisicing reprehenderit id."
+    },
+    {
+        "id": "6355991788bb47671a1ad47b",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/bc/83/f7/cafe-shillong-bed-breakfast.jpg",
+        "total": 789,
+        "night": 55,
+        "rating": 4.0,
+        "category_id": 2,
+        "title": "Advance Level",
+        "Description": "Quis ea quis magna laboris laboris cillum laborum culpa consectetur id eu Lorem dolor aliqua. Anim proident est et sint fugiat"
+    },
+    {
+        "id": "63559a3deaddade384fac3b9",
+        "image": "https://images.trvl-media.com/hotels/47000000/46070000/46061400/46061332/950b96a2.jpg?impolicy=resizecrop&rw=670&ra=fit",
+        "total": 356,
+        "night": 44,
+        "rating": 4.3,
+        "category_id": 3,
+        "title": "Beginner Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "63559a3d5895bc102f7a21d1",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/a4/c6/e3/hotel-graver-inn-international.jpg",
+        "total": 676,
+        "night": 67,
+        "rating": 4.9,
+        "category_id": 3,
+        "title": "Intermidate Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing consectetur"
+    },
+    {
+        "id": "63559a3d84173d8a7cf7902e",
+        "image": "https://ak-d.tripcdn.com/images/200q0y000000lxp6b186A_Z_1100_824_R5_Q70_D.jpg",
+        "total": 414,
+        "night": 26,
+        "rating": 4.9,
+        "category_id": 3,
+        "title": "Advance Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "63559a902eb7961fc9e73b3a",
+        "image": "https://images.trvl-media.com/hotels/23000000/22200000/22196000/22195972/a6596b7a_y.jpg?impolicy=fcrop&w=340&h=150&q=medium",
+        "total": 333,
+        "night": 29,
+        "rating": 4.9,
+        "category_id": 4,
+        "title": "Beginner Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "63559a90f510982544fd6212",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/21/72/48/2f/exterior.jpg",
+        "total": 323,
+        "night": 65,
+        "rating": 4.3,
+        "category_id": 4,
+        "title": "Intermidate Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "63559a9049daf2869af96a42",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/99/54/30/swimming-pool.jpg",
+        "total": 373,
+        "night": 21,
+        "rating": 4.8,
+        "category_id": 4,
+        "title": "Advance Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "63559a901b1487ad27992b5a",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/a7/31/0e/dream-night-resort.jpg",
+        "total": 413,
+        "night": 74,
+        "rating": 4.8,
+        "category_id": 5,
+        "title": "Beginner Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "63559a900b3ca55e13cac8c5",
+        "image": "https://www.planetware.com/wpimages/2021/08/st-martin-st-maarten-best-resorts-la-samanna-belmond-hotel-st-martin-2.jpg",
+        "total": 380,
+        "view": 94,
+        "rating": 4.1,
+        "category_id": 5,
+        "title": "Intermidate Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "63559b023ea8ec139474eca7",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282833788.jpg?k=9781cc7b6e30a39e3121bd6a9f6390dddd9492f03a505caec34aa0b9e73bd8b6&o=&hp=1",
+        "total": 314,
+        "view": 74,
+        "rating": 4.1,
+        "category_id": 5,
+        "title": "Advance Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "63559b0254ea4f445f4ea35b",
+        "image": "https://farm3.static.flickr.com/2172/1773518298_9b24ca70ff.jpg",
+        "total": 400,
+        "view": 54,
+        "rating": 4.3,
+        "category_id": 6,
+        "title": "Beginner Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "63559b0208daa95c19efa2a9",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/2d/8d/6a/img-20181217-145908-largejpg.jpg",
+        "total": 600,
+        "view": 77,
+        "rating": 4.7,
+        "category_id": 6,
+        "title": "Intermidate Level",
+        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "63559917b2d9724d6dace182",
+        "image": "https://porzoton.com/wp-content/uploads/2020/12/Sajek-Valley-Sun-rises-over-the-clouds.jpg",
+        "total": 460,
+        "view": 38,
+        "rating": 4.6,
+        "category_id": 6,
+        "title": "Advance Level",
+        "Description": "Anim laboris minim irure aliquip culpa sit pariatur adipisicing excepteur dolore qui. Reprehenderit culpa officia exercitation qui exercitation velit velit id pariatur ipsum sit anim. Id sit enim adipisicing"
+    }
+]

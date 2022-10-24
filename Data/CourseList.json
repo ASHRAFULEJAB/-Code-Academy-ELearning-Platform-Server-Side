@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "React Js",
+        "img":"https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"
+    },
+    {
+        "id": "2",
+        "name": "React Native",
+        "img":"https://miro.medium.com/max/700/1*C3kxjCrJy-aWSMpe2chfaA.png"
+    },
+    {
+        "id": "3",
+        "name": "JavaScript",
+        "img":"https://image.shutterstock.com/image-vector/javascript-programming-language-script-code-260nw-1062509657.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Data Structure",
+        "img":"https://thumbs.dreamstime.com/b/data-structure-word-cloud-concept-grey-background-90729928.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Machine Learning",
+        "img":"https://www.techiemag.net/wp-content/uploads/2020/11/Machine-learning.png"
+    },
+    {
+        "id": "6",
+        "name": "Artificial Inteligence",
+        "img":"https://dailytechtime.com/wp-content/uploads/2022/01/Artificial-Intelligence.jpg"
+    }
+]
