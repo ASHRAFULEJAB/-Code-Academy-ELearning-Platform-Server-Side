@@ -18,6 +18,11 @@ app.get('/courseslist/:id', (req, res) => {
 
   res.send(selectedCourseList)
 })
+app.get('/single-course-details/:id', (req, res) => {
+  const id = req.params.id
+  const singleCourseDetails = courseListItem.find(scd => scd.id === id)
+  res.send(singleCourseDetails)
+})
 
 app.get('/', (req, res) => {
   res.send('New course are coming soon')
