@@ -7,7 +7,7 @@
         "rating": 4.7,
         "category_id": 1,
         "title": "Beginner Level",
-        "Description": "Duis tempor proident do fugiat. Ullamco fugiat consectetur deserunt et fugiat eu sint amet nisi sunt quis fugiat. Adipisicing aliqua aliquip anim qui laboris. Proident ut aliquip labore sunt ullamco"
+        "Description": "ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram."
     },
     {
         "id": "63559917cd6b95e56a2cdb52",
@@ -17,7 +17,7 @@
         "rating": 4.5,
         "category_id": 1,
         "title": "Intermidate Level",
-        "Description": "Commodo est commodo officia cillum officia deserunt duis cillum proident ea labore. Aute eiusmod magna velit consequat fugiat deserunt ipsum fugiat pariatur. Laborum labore cillum ipsum esse quis veniam"
+        "Description": "ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram."
     },
     {
         "id": "63559917851a826af30f960f",
@@ -27,7 +27,7 @@
         "rating": 4.9,
         "category_id": 1,
         "title": "Advance Level",
-        "Description": "Anim laboris minim irure aliquip culpa sit pariatur adipisicing excepteur dolore qui. Reprehenderit culpa officia exercitation qui exercitation velit velit id pariatur ipsum sit anim. Id sit enim adipisicing"
+        "Description": "ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram."
     },
     {
         "id": "6355991742166456f4019acc",
@@ -37,7 +37,7 @@
         "rating": 4.1,
         "category_id": 2,
         "title": "Beginner Level",
-        "Description": "Minim commodo in deserunt fugiat est ullamco eu. Officia minim ea laboris fugiat. Tempor Lorem labore laborum ad enim."
+        "Description": "React Native is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities."
     },
     {
         "id": "6355991737994116efdef1ea",
@@ -47,7 +47,7 @@
         "rating": 4.4,
         "category_id": 2,
         "title": "Intermidate Level",
-        "Description": "Ea et minim laboris quis. Sit exercitation nisi labore exercitation aliqua do aliqua cupidatat officia consequat non nulla. Commodo nostrud deserunt velit ipsum adipisicing reprehenderit id."
+        "Description": "React Native is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities."
     },
     {
         "id": "6355991788bb47671a1ad47b",
@@ -57,7 +57,7 @@
         "rating": 4.0,
         "category_id": 2,
         "title": "Advance Level",
-        "Description": "Quis ea quis magna laboris laboris cillum laborum culpa consectetur id eu Lorem dolor aliqua. Anim proident est et sint fugiat"
+        "Description": "React Native is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities."
     },
     {
         "id": "63559a3deaddade384fac3b9",
@@ -67,7 +67,7 @@
         "rating": 4.3,
         "category_id": 3,
         "title": "Beginner Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+        "Description": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
     },
     {
         "id": "63559a3d5895bc102f7a21d1",
@@ -77,7 +77,7 @@
         "rating": 4.9,
         "category_id": 3,
         "title": "Intermidate Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing consectetur"
+        "Description": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
     },
     {
         "id": "63559a3d84173d8a7cf7902e",
@@ -87,7 +87,7 @@
         "rating": 4.9,
         "category_id": 3,
         "title": "Advance Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+        "Description": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
     },
     {
         "id": "63559a902eb7961fc9e73b3a",
@@ -97,7 +97,7 @@
         "rating": 4.9,
         "category_id": 4,
         "title": "Beginner Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+        "Description": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways."
     },
     {
         "id": "63559a90f510982544fd6212",
@@ -107,7 +107,7 @@
         "rating": 4.3,
         "category_id": 4,
         "title": "Intermidate Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+        "Description": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways."
     },
     {
         "id": "63559a9049daf2869af96a42",
@@ -117,7 +117,7 @@
         "rating": 4.8,
         "category_id": 4,
         "title": "Advance Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+        "Description": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways."
     },
     {
         "id": "63559a901b1487ad27992b5a",
@@ -127,7 +127,7 @@
         "rating": 4.8,
         "category_id": 5,
         "title": "Beginner Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+        "Description": "Machine learning as a concept has been around for quite some time. The term “machine learning” was coined by Arthur Samuel, a computer scientist at IBM and a pioneer in AI and computer gaming. Samuel designed a computer program for playing checkers. The more the program played, the more it learned from experience, using algorithms to make predictions."
     },
     {
         "id": "63559a900b3ca55e13cac8c5",
@@ -137,7 +137,7 @@
         "rating": 4.1,
         "category_id": 5,
         "title": "Intermidate Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+        "Description": "Machine learning as a concept has been around for quite some time. The term “machine learning” was coined by Arthur Samuel, a computer scientist at IBM and a pioneer in AI and computer gaming. Samuel designed a computer program for playing checkers. The more the program played, the more it learned from experience, using algorithms to make predictions."
     },
     {
         "id": "63559b023ea8ec139474eca7",
@@ -147,7 +147,7 @@
         "rating": 4.1,
         "category_id": 5,
         "title": "Advance Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+        "Description": "Machine learning as a concept has been around for quite some time. The term “machine learning” was coined by Arthur Samuel, a computer scientist at IBM and a pioneer in AI and computer gaming. Samuel designed a computer program for playing checkers. The more the program played, the more it learned from experience, using algorithms to make predictions."
     },
     {
         "id": "63559b0254ea4f445f4ea35b",
@@ -157,7 +157,7 @@
         "rating": 4.3,
         "category_id": 6,
         "title": "Beginner Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+        "Description": "Artificial intelligence (AI) is a branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. AI allows machines to model, and even improve upon, the capabilities of the human mind. From the development of self-driving cars to the proliferation of smart assistants like Siri and Alexa, AI is a growing part of everyday life. As a result, many tech companies across various industries are investing in artificially intelligent technologies."
     },
     {
         "id": "63559b0208daa95c19efa2a9",
@@ -167,7 +167,7 @@
         "rating": 4.7,
         "category_id": 6,
         "title": "Intermidate Level",
-        "Description": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+        "Description": "Artificial intelligence (AI) is a branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. AI allows machines to model, and even improve upon, the capabilities of the human mind. From the development of self-driving cars to the proliferation of smart assistants like Siri and Alexa, AI is a growing part of everyday life. As a result, many tech companies across various industries are investing in artificially intelligent technologies."
     },
     {
         "id": "63559917b2d9724d6dace182",
@@ -177,6 +177,6 @@
         "rating": 4.6,
         "category_id": 6,
         "title": "Advance Level",
-        "Description": "Anim laboris minim irure aliquip culpa sit pariatur adipisicing excepteur dolore qui. Reprehenderit culpa officia exercitation qui exercitation velit velit id pariatur ipsum sit anim. Id sit enim adipisicing"
+        "Description": "Artificial intelligence (AI) is a branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. AI allows machines to model, and even improve upon, the capabilities of the human mind. From the development of self-driving cars to the proliferation of smart assistants like Siri and Alexa, AI is a growing part of everyday life. As a result, many tech companies across various industries are investing in artificially intelligent technologies."
     }
 ]
