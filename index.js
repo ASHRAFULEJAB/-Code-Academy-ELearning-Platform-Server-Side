@@ -20,7 +20,7 @@ app.get('/courseslist/:id', (req, res) => {
 })
 app.get('/single-course-details/:id', (req, res) => {
   const id = req.params.id
-  const singleCourseDetails = courseListItem.find(scd => scd.id === id)
+  const singleCourseDetails = courseListItem.find((scd) => scd.id === id)
   res.send(singleCourseDetails)
 })
 
